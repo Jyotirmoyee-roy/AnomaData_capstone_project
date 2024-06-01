@@ -23,7 +23,7 @@ This Capstone project is mainly focused on predicting the machine breakdown by i
 
 ## Usage
 1. Run the main jupyter notebook to this project:
-   Anomodata capstone project1.ipynb
+   Anomodata capstone project.ipynb
    
 ## Important note
 Before you run this jupyter notebook, please make sure to update the neccesary dataset path in the notebook as per your local system's path.
